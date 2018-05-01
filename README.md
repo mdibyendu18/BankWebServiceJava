@@ -4,13 +4,13 @@ the branches of the bank in the city .For a given bank branch ifsc code you can 
 
 ## Get Branch Details for a given IFSC code
 To get the get the bank branch detail for a given ifsc code type the following url in the browser address bar
-http://bankservicepython.herokuapp.com/branch/{yourbrachifsccode}
+http://bankservicejava.herokuapp.com/branch/{yourbrachifsccode}
 ### Example 
 (http://bankservicejava.herokuapp.com/branch/ALLA0212106)
 
 ## Get list of Bank Branches for a given bank name and city
 To get the get the list of bank branches  for a given bank name and city  type the following url in the browser address bar
-http://bankservicepython.herokuapp.com/bank/{yourbankname}/city/{yourcityname}
+http://bankservicejava.herokuapp.com/bank/{yourbankname}/city/{yourcityname}
 ### Example 
 (http://bankservicejava.herokuapp.com/bank/state%20bank%20of%20india/city/kolkata)
 
